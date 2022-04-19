@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sep2021springMVCClassConfig:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sep2021springMVCClassConfig_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sep2021springMVCClassConfig/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sep2021springMVCClassConfig" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
